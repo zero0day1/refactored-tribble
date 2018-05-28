@@ -1,3 +1,1 @@
 # refactored-tribble
-
-# Quick Start
